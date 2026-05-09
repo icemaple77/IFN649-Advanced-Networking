@@ -59,3 +59,4 @@ layer3/Client/public/index.html
 layer3/Client/src/App.js
 layer3/Client/src/index.js
 layer3/Client/src/styles.css
+node_modules/
